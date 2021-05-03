@@ -1,0 +1,30 @@
+h1{
+    font-size: 30;
+    color: aquamarine;
+    font-style: italic;
+    text-align: center;
+    font-weight: 200;
+    outline: black;
+    background-color: cornflowerblue;
+    box-sizing: border-box;
+    border-width: 5px;
+}
+.evanpic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+body{
+    background-color: #627d4d;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    border-radius: 10px;
+}
